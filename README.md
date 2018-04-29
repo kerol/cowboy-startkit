@@ -5,16 +5,16 @@ This is a startkit based on Erlang and cowboy framework.
 
 ###  Features
 - Erlang and cowboy framework(integrate other frameworks like ChicagoBoss as you like)
-- Rebar3 built
+- Rebar3 building tool used
 - Support multiple apps(diferrent hosts and paths)
-- [x] database(MySQL, Redis, MongoDB) support
+- [x] Database(MySQL, Redis, MongoDB) support
 - [x] Middlewares and logging
 - [x] Microservices related
-- [x] deploy and monitoring
+- [x] Deploy and monitoring
 
 
 ### Build
-`prerequisite`: `Rebar3`
+`prerequirements`: `Rebar3`
 ```
 brew install rebar3  % follow offical instruction on other platform
 ```
